@@ -1,6 +1,6 @@
-baseURL = "https://www.ruwaizrazak.com"
+baseURL = "https://example.org/"
 languageCode = "en-us"
-title = "Ruwaiz Razak"
+title = "Personal Digital Garden"
 theme = "digitalgarden"
 
 googleAnalytics = "UA-PROPERTY_ID"
